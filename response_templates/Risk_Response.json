@@ -10,6 +10,7 @@
         {
             "name": "Contain and Respond",
             "order": 1,
+            "template": 11,
             "create_time": "2021-01-28T23:13:03.675139Z",
             "modified_time": "2021-03-11T14:54:44.759907Z",
             "sla": null,

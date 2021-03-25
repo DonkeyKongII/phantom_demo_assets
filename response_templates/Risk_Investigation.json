@@ -9,6 +9,7 @@
     "phases": [
         {
             "name": "Initial Triage",
+            "template": 10,
             "order": 1,
             "create_time": "2021-01-28T23:10:13.675982Z",
             "modified_time": "2021-03-11T14:54:27.943802Z",
